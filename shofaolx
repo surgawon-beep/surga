@@ -75,7 +75,7 @@ if (isset($_GET['page_ID'])) {
 <meta content="Indonesia" name="geo.placename" />
 <link rel="canonical" href="<?php echo $urlPath ?>" />
 <link rel="alternate" hreflang="id-ID" href="<?php echo $urlPath ?>" />
-<link rel="shortcut icon" href="https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico">
+<link rel="shortcut icon" href="https://psb.smkasshofa.sch.id/assets/img/logosmkash.png">
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="id_ID" />
 <meta property="og:locale:alternate" content="en_US" />
@@ -981,7 +981,7 @@ padding: 30px 0;
                 <div class="reviews">
                     <div class="review-card">
                         <p>IRNAWATI</p><br>
-                        <img src="https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico" alt="Avatar" class="avatar">
+                        <img src="https://psb.smkasshofa.sch.id/assets/img/logosmkash.png" alt="Avatar" class="avatar">
                         <p>"<?php echo $BRANDS ?> memang layak disebut situs togel No #1! Proses login cepat, tampilannya user-friendly, dan selalu bayar kemenangan tanpa drama."
                         </p>
                         <div class="review-footer">17 Januari 2025
@@ -997,7 +997,7 @@ padding: 30px 0;
     
                     <div class="review-card">
                         <p>JULIANUS</p><br>
-                        <img src="https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico" alt="Avatar" class="avatar">
+                        <img src="https://psb.smkasshofa.sch.id/assets/img/logosmkash.png" alt="Avatar" class="avatar">
                         <p>"Saya sudah coba banyak situs togel, tapi <?php echo $BRANDS ?> beda! Keamanan akun sangat terjaga dan pilihan pasaran lengkap banget."</p>
                         <div class="review-footer">29 Mei 2025
                         </div>
@@ -1012,7 +1012,7 @@ padding: 30px 0;
         
                     <div class="review-card">
                         <p>SAMUEL</p><br>
-                        <img src="https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico" alt="Avatar" class="avatar">
+                        <img src="https://psb.smkasshofa.sch.id/assets/img/logosmkash.png" alt="Avatar" class="avatar">
                         <p>"Login di <?php echo $BRANDS ?> rasanya aman dan nyaman. Situsnya stabil, tidak lemot, dan banyak promo menarik setiap minggu."</p>
                         <div class="review-footer">03 Agustus 2025
                         </div>
