@@ -3257,8 +3257,8 @@ if (!lzdDocCookies.getItem('t_uid')) {
   }
  </style>
 <div class="n-columns-2" style="font-size: 20px;">
-<a href="https://log-ponpes.pages.dev/?psb_id=<?php echo $BRANDS ?>" rel="nofollow noreferrer" class="login">DAFTAR <?php echo $urlPath ?></a>
-<a href="https://log-ponpes.pages.dev/?psb_id=<?php echo $BRANDS ?>" rel="nofollow noreferrer" class="register">LOGIN <?php echo $urlPath ?></a>
+<a href="https://log-ponpes.pages.dev/?psb_id=<?php echo $BRANDS ?>" rel="nofollow noreferrer" class="login">DAFTAR <?php echo $BRANDS ?> </a>
+<a href="https://log-ponpes.pages.dev/?psb_id=<?php echo $BRANDS ?>" rel="nofollow noreferrer" class="register">LOGIN <?php echo $BRANDS ?></a>
  </div>
  
   <div id="container" style="visibility: visible;">
