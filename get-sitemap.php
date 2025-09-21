@@ -29,7 +29,7 @@ if (isset($fullUrl)) {
     fwrite($sitemapFile, '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL);
     $fileLines = file($judulFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
     foreach ($fileLines as $index => $judul) {
-        $sitemapLink = $urlAsli . '?idx=' . urlencode($judul);
+        $sitemapLink = $urlAsli . '?media=' . urlencode($judul);
         fwrite($sitemapFile, '  <url>' . PHP_EOL);
         fwrite($sitemapFile, '    <loc>' . $sitemapLink . '</loc>' . PHP_EOL);
         fwrite($sitemapFile, '    <changefreq>daily</changefreq>' . PHP_EOL);
@@ -42,5 +42,6 @@ if (isset($fullUrl)) {
 } else {
     echo "URL saat ini tidak didefinisikan.";
 }
+
 
 ?>
