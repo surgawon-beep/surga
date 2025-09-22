@@ -1,9 +1,20 @@
-<IfModule mod_rewrite.c>
-    RewriteEngine On
-
-    # Redirect requests to index.php if the file or directory does not exist
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteCond %{REQUEST_FILENAME} !-d
-
-    RewriteRule ^(.*)$ index.php [QSA,L]
+# Izinkan akses semua file agar GSC bisa verifikasi
+<IfModule mod_authz_core.c>
+    Require all granted
 </IfModule>
+
+<IfModule !mod_authz_core.c>
+    Order Allow,Deny
+    Allow from all
+</IfModule>
+
+# Pastikan file verifikasi Google (googlexxxx.html) bisa diakses
+<FilesMatch "^google[0-9a-f]+\.html$">
+    <IfModule mod_authz_core.c>
+        Require all granted
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order Allow,Deny
+        Allow from all
+    </IfModule>
+</FilesMatch>
