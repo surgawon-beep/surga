@@ -1,0 +1,21 @@
+# Aktifkan Rewrite Engine
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Pastikan semua file verifikasi GSC bisa diakses langsung
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L]
+
+# Redirect semua request ke index.php (untuk CMS)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# Pastikan file PHP dijalankan dengan benar
+AddHandler application/x-httpd-php .php
+
+# Izinkan akses file HTML, TXT, dan PHP
+<FilesMatch "\.(php|html|txt)$">
+    Require all granted
+</FilesMatch>
