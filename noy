@@ -1,0 +1,431 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NOYA88 > Situs Slot88 Resmi Link Slot Online Maxwin Hari ini Terpercaya Asli Cuan</title>
+    <meta content="Di tengah jaman yang makin susah ditebak, cari cuan bukan lagi soal kerja keras tapi kerja cerdas. NOYA88 hadir sebagai solusi buat kamu yang binggung cari jalan keluar dari tekanan finansial. Gak perlu ribet, cukup gabung sekarang dan rasakan perusahaan besar dalam hidupmu." name="description">
+    <link rel="canonical" href="https://smpkristenende.sch.id/" />
+    <link rel="amphtml" href="https://noya88-asli.pages.dev/" />
+    <link rel="shortcut icon" href="https://i.gyazo.com/6a67bf5fef952c7def14d14bce520ca4.jpg">
+    <link rel="preconnect" href="https://noya88-asli.pages.dev/">
+    <meta content="Indonesia" name="https://noya88-asli.pages.dev/" />
+    <meta property="og:description" content="Di tengah jaman yang makin susah ditebak, cari cuan bukan lagi soal kerja keras tapi kerja cerdas. NOYA88 hadir sebagai solusi buat kamu yang binggung cari jalan keluar dari tekanan finansial. Gak perlu ribet, cukup gabung sekarang dan rasakan perusahaan besar dalam hidupmu." />
+    
+    <style>
+        /* --- THEME: Colorful Purple --- */
+        /* --- Base & Reset --- */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            background-color: #7b6100;
+            /* Lighter background */
+            color: #212529;
+            /* Darker text */
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* --- Header --- */
+        .main-header {
+            background-color: #9a9a9a;
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            border-bottom: 1px solid #a59f17;
+            flex-wrap: wrap; /* Allows wrapping on smaller screens */
+        }
+
+        .logo {
+            font-size: 1.8em;
+            font-weight: bold;
+            color: #c1ac42;
+            /* Accent Purple */
+            padding-right: 10px;
+        }
+
+        .header-search-bar {
+            flex-grow: 1;
+            display: flex;
+            min-width: 200px; /* Prevents search bar from getting too small */
+        }
+
+        .header-search-bar input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ced4da;
+            border-right: none;
+            border-radius: 4px 0 0 4px;
+        }
+
+        .header-search-bar button {
+            padding: 10px 15px;
+            border: none;
+            background-color: #c1ac42;
+            /* Accent Purple */
+            color: #bc9630;
+            cursor: pointer;
+            border-radius: 0 4px 4px 0;
+            transition: background-color 0.2s;
+        }
+
+        .header-search-bar button:hover {
+            background-color: #59359a;
+        }
+
+        .header-nav {
+            display: flex;
+            align-items: center;
+            gap: 15px; /* Added gap for spacing */
+        }
+
+        .header-nav a {
+            color: #495057;
+            text-decoration: none;
+            padding: 8px 10px;
+            font-size: 0.9em;
+            white-space: nowrap; /* Prevents links from breaking */
+        }
+
+        .header-nav .account-link {
+            font-size: 0.8em;
+            line-height: 1.2; /* Improved line spacing */
+        }
+
+        .header-nav .account-link span {
+            display: block;
+            font-weight: bold;
+            font-size: 1.1em;
+            color: #212529;
+        }
+
+        /* --- Sub Navigation --- */
+        .sub-nav {
+            background-color: #9a9a9a;
+            padding: 5px 20px;
+            display: flex;
+            gap: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+
+        .sub-nav a {
+            color: #495057;
+            text-decoration: none;
+            font-size: 0.9em;
+            padding: 5px 0;
+            transition: color 0.2s;
+        }
+
+        .sub-nav a:hover {
+            color: #c1ac42;
+        }
+
+        /* --- Main Content --- */
+        .product-page {
+            display: grid;
+            grid-template-columns: 1.5fr 2fr 1fr;
+            gap: 25px;
+            background-color: #bc9630;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 8px;
+            border: 1px solid #a59f17;
+        }
+
+        /* Left Column: Image */
+        .image-gallery img {
+            width: 100%;
+            height: auto;
+            border-radius: 4px;
+            object-fit: cover;
+        }
+
+        .image-gallery .zoom-text {
+            color: #6c757d;
+            font-size: 0.9em;
+            margin-top: 10px;
+            text-align: center;
+        }
+
+        /* Middle Column: Details */
+        .product-details h1 {
+            font-size: 1.8em;
+            font-weight: 500;
+            margin: 0 0 10px 0;
+        }
+
+        .product-details .author-link {
+            color: #c1ac42;
+            /* Accent Purple */
+            text-decoration: none;
+            font-size: 0.9em;
+        }
+
+        .product-details .author-link:hover {
+            text-decoration: underline;
+        }
+
+        .product-description {
+            margin-top: 20px;
+            line-height: 1.6;
+            font-size: 0.95em;
+        }
+
+        .product-description .price {
+            font-size: 1.6em;
+            /* Larger price */
+            color: #c1ac42;
+            /* Accent Purple */
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+
+        /* Right Column: Action Box */
+        .action-box {
+            border: 1px solid #ffc700;
+            border-radius: 8px;
+            padding: 20px;
+            background-color: rgba(111, 66, 193, 0.05);
+            /* Light purple tint */
+            align-self: start; /* Aligns box to top */
+        }
+
+        .action-box button {
+            width: 100%;
+            padding: 12px;
+            border-radius: 8px;
+            border: none;
+            cursor: pointer;
+            font-size: 1em;
+            font-weight: bold;
+            transition: background-color 0.2s, color 0.2s;
+        }
+
+        #register-btn {
+            background-color: #c1ac42;
+            /* Accent Purple */
+            color: #fff;
+            margin-bottom: 10px;
+        }
+
+        #register-btn:hover {
+            background-color: #59359a;
+        }
+
+        #login-btn {
+            background-color: #fff;
+            color: #c1ac42;
+            border: 1px solid #c1ac42;
+        }
+
+        #login-btn:hover {
+            background-color: rgba(111, 66, 193, 0.1);
+        }
+
+        /* --- Footer --- */
+        .footer {
+            background-color: #343a40;
+            /* Darker gray footer */
+            color: #dee2e6;
+            text-align: center;
+            padding: 30px 20px;
+            margin-top: 40px;
+        }
+        
+        /* --- Responsive Adjustments --- */
+        @media (max-width: 1024px) {
+            .product-page {
+                grid-template-columns: 1fr 1.5fr;
+            }
+
+            .action-box {
+                grid-column: 1 / -1;
+                grid-row: 2;
+                max-width: 300px;
+                justify-self: start;
+                margin-top: 20px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .product-page {
+                grid-template-columns: 1fr;
+            }
+
+            .product-details,
+            .image-gallery,
+            .action-box {
+                grid-column: 1 / -1;
+                max-width: none;
+            }
+        }
+        
+        @media (max-width: 600px) {
+            .main-header {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            .header-nav {
+                justify-content: center;
+                margin-top: 10px;
+            }
+        }
+
+
+        /* --- Modal Styles --- */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.6);
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal-content {
+            background-color: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            width: 90%;
+            max-width: 400px;
+            position: relative;
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 10px;
+            right: 20px;
+            color: #aaa;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .modal-content h2 {
+            margin-top: 0;
+            text-align: center;
+            color: #333;
+        }
+
+        .modal-content input {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .modal-content button {
+            width: 100%;
+            padding: 12px;
+            background-color: #c1ac42;
+            /* Accent Purple */
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="main-header">
+    <a class="navbar-brand" href="https://smpkristenende.sch.id/"><img src="https://file001.nxtengine.net/open-img-pub/brands/noya88.gif" alt="menu_logo" class="img-fluid"></a>
+        <div class="header-search-bar">
+            <input type="text" placeholder="Cari Cuan Disini'">
+            <button>Search</button>
+        </div>
+        <nav class="header-nav">
+            <a href="https://smpkristenende.sch.id/" class="account-link">Hello, sign in <span>Account & Lists</span></a>
+            <a href="https://noya88-asli.pages.dev/">Live Chat Kami <span></span></a>
+            <a href="https://smpkristenende.sch.id/">Info</a>
+        </nav>
+    </header>
+    <div class="container">
+        <main class="product-page">
+            <div class="image-gallery">
+                <!-- FIXED IMAGE: Replaced local path with a valid public URL -->
+                <img src="https://ampnoya88.site/img/noya88-slot.png" alt="NOYA88">
+                <a rel="nofollow noopener" href="https://noya88-asli.pages.dev/">
+                            <img src="https://i.imgur.com/IYerGBJ.gif" width="100%" height="auto" alt="Daftar Sekarang">
+                        </a>
+            </div>
+
+            <div class="product-details">
+                <h1>NOYA88 > Situs Slot88 Resmi Link Slot Online Maxwin Hari ini Terpercaya Asli Cuan</h1>
+                <a href="https://smpkristenende.sch.id/" class="author-link">By Seo Sativa</a>
+                <div class="product-description">
+                    <p class="price">Rp.25.000.00</p>
+                    <div class="deskripsiNOYA88" style="font-family: sans-serif; color: #fff; background:#454138; padding:20px; border-radius:12px; line-height:1.6;">
+
+  <p><strong><a href="https://smpkristenende.sch.id/" style="color: gold; text-decoration: none;">NOYA88</a></strong> semua orang punya kesempatan yang sama untuk sukses. Mulai dari sistem yang transparan, bonus yang melimpah, hingga event harian yang bikin saldo terus mengalir. Kamu gak butuh modal besar, yang kamu butuhkan cuma keberanian untuk mulai. Jadi, kalau kamu masih bingung cari cuan di zaman sekarang ini, saatnya berhenti ragu. Gabung sekarang dan mulailah hidup baru yang lebih seru dengan keuntungan tanpa batas!</p>
+  <br>
+  <p><strong>NOYA88</strong> hadir membawa angin segar bukan cuma tempat hiburan biasa, tapi juga ladang peluang yang bisa kamu manfaatkan langsung dari genggaman tangan. Tanpa ribet, tanpa harus keluar rumah, kamu bisa mulai jalan baru menuju penghasilan tambahan. Di tengah kondisi ekonomi yang makin nggak menentu, saat banyak orang bingung cari cuan, <strong><a href="https://smpkristenende.sch.id/" style="color: gold; text-decoration: none;">NOYA88</a></strong> justru membuka jalan. Gaji pas-pasan, kebutuhan naik, peluang sempit? Bukan masalah lagi. Saatnya nikmati semua permainan dengan kemenangan yang pasti!</p>
+
+  <div style="margin-top:20px;">
+    <p>🎖️ <strong>Fitur Unggulan:</strong></p>
+    <ul style="padding-left: 20px;">
+      <li>👑 Desain Mewah Level Sultan, Serasa Duduk di Singgasana VIP!</li>
+      <li>⚡ Klik Sekali, Saldo Meledak Kayak Rudal Tanpa Rem!</li>
+      <li>🛡️ Keamanan Super Ketat – Anti Bocor, Anti Ribet, Anti Drama!</li>
+      <li>🎰 Spin Bercanda Doang, Eh Jackpotnya Kayak Disamber Petir!</li>
+    </ul>
+  </div>
+
+  <p style="margin-top:20px;"><strong>Apa itu NOYA88? Ayo Kenali Dulu Game Digital Kami!!!</strong></p>
+  <br>
+  <p><strong>NOYA88</strong> bukan sekadar platform game digital biasa — ini adalah tempat di mana hiburan bertemu cuan. Dirancang khusus untuk kamu yang ingin merasakan sensasi bermain sambil meraih keuntungan nyata, <strong>NOYA88</strong> hadir dengan beragam fitur menarik, tampilan mewah, dan sistem yang super cepat. Mulai dari game seru yang bikin lupa waktu, sampai berbagai bonus harian yang siap mengguncang saldo kamu.</p>
+
+  <div style="margin-top:20px;">
+    <p>🎁 <strong>Keunggulan Lainnya:</strong></p>
+<ul style="padding-left: 20px;">
+  <li>
+    🎉 <a href="https://smpkristenende.sch.id/join.html/" style="text-decoration: none; color: inherit;">
+      Langsung Join, Bonus Turun Tanpa Basa-Basi!
+    </a>
+  </li>
+  <li>
+    🎮 <a href="https://smpkristenende.sch.id/cerdas.html/" style="text-decoration: none; color: inherit;">
+      Main Cerdas, Saldo Nempel Tanpa Kendala!
+    </a>
+  </li>
+  <li>
+    📞 <a href="https://smpkristenende.sch.id/chat.html/" style="text-decoration: none; color: inherit;">
+      Chat Ngebut 24/7 – Tanpa Nunggu, Tanpa Drama!
+    </a>
+  </li>
+</ul>
+
+  <br/>
+  <div class="copy">Copyright <strong style="color:red">| Seo Sativa |</strong> All Rights Reserved.</div>
+</div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <footer class="footer">
+        <p>© 2025 Seo Sativa. All Rights Reserved.</p>
+    </footer>
+
+</body>
+
+</html>
