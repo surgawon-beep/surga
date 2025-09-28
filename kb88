@@ -1,0 +1,431 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KABUKI88 > Link Slot88 Resmi Situs Slot Online Gacor Gampang Maxwin Situs Terpercaya</title>
+    <meta content="Di tengah jaman yang makin susah ditebak, cari cuan bukan lagi soal kerja keras tapi kerja cerdas. kabuki88 hadir sebagai solusi buat kamu yang binggung cari jalan keluar dari tekanan finansial. Gak perlu ribet, cukup gabung sekarang dan rasakan perusahaan besar dalam hidupmu." name="description">
+    <link rel="canonical" href="https://jurnal.cspu.uz/" />
+    <link rel="amphtml" href="https://kabuki88-ori.pages.dev/" />
+    <link rel="shortcut icon" href="https://sga-cdn-hxg6b2d7ctb2c0eu.z02.azurefd.net/agent-websites/328/medialibrary/images/328_2176ed61b9d04ef9919582adb19215f7.png">
+    <link rel="preconnect" href="https://kabuki88-ori.pages.dev/">
+    <meta content="Indonesia" name="https://kabuki88-ori.pages.dev/" />
+    <meta property="og:description" content="Di tengah jaman yang makin susah ditebak, cari cuan bukan lagi soal kerja keras tapi kerja cerdas. kabuki88 hadir sebagai solusi buat kamu yang binggung cari jalan keluar dari tekanan finansial. Gak perlu ribet, cukup gabung sekarang dan rasakan perusahaan besar dalam hidupmu." />
+    
+    <style>
+        /* --- THEME: Colorful Purple --- */
+        /* --- Base & Reset --- */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            background-color: #FF0000;
+            /* Lighter background */
+            color: #FFFFFF;
+            /* Darker text */
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* --- Header --- */
+        .main-header {
+            background-color: #c1ac42;
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            border-bottom: 1px solid #000000;
+            flex-wrap: wrap; /* Allows wrapping on smaller screens */
+        }
+
+        .logo {
+            font-size: 1.8em;
+            font-weight: bold;
+            color: #c1ac42;
+            /* Accent Purple */
+            padding-right: 10px;
+        }
+
+        .header-search-bar {
+            flex-grow: 1;
+            display: flex;
+            min-width: 200px; /* Prevents search bar from getting too small */
+        }
+
+        .header-search-bar input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ced4da;
+            border-right: none;
+            border-radius: 4px 0 0 4px;
+        }
+
+        .header-search-bar button {
+            padding: 10px 15px;
+            border: none;
+            background-color: #FF0000;
+            /* Accent Purple */
+            color: #bc9630;
+            cursor: pointer;
+            border-radius: 0 4px 4px 0;
+            transition: background-color 0.2s;
+        }
+
+        .header-search-bar button:hover {
+            background-color: #59359a;
+        }
+
+        .header-nav {
+            display: flex;
+            align-items: center;
+            gap: 15px; /* Added gap for spacing */
+        }
+
+        .header-nav a {
+            color: #495057;
+            text-decoration: none;
+            padding: 8px 10px;
+            font-size: 0.9em;
+            white-space: nowrap; /* Prevents links from breaking */
+        }
+
+        .header-nav .account-link {
+            font-size: 0.8em;
+            line-height: 1.2; /* Improved line spacing */
+        }
+
+        .header-nav .account-link span {
+            display: block;
+            font-weight: bold;
+            font-size: 1.1em;
+            color: #FFFFFF;
+        }
+
+        /* --- Sub Navigation --- */
+        .sub-nav {
+            background-color: #c1ac42;
+            padding: 5px 20px;
+            display: flex;
+            gap: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+
+        .sub-nav a {
+            color: #495057;
+            text-decoration: none;
+            font-size: 0.9em;
+            padding: 5px 0;
+            transition: color 0.2s;
+        }
+
+        .sub-nav a:hover {
+            color: #c1ac42;
+        }
+
+        /* --- Main Content --- */
+        .product-page {
+            display: grid;
+            grid-template-columns: 1.5fr 2fr 1fr;
+            gap: 25px;
+            background-color: #bc9630;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 8px;
+            border: 1px solid #000000;
+        }
+
+        /* Left Column: Image */
+        .image-gallery img {
+            width: 100%;
+            height: auto;
+            border-radius: 4px;
+            object-fit: cover;
+        }
+
+        .image-gallery .zoom-text {
+            color: #6c757d;
+            font-size: 0.9em;
+            margin-top: 10px;
+            text-align: center;
+        }
+
+        /* Middle Column: Details */
+        .product-details h1 {
+            font-size: 1.8em;
+            font-weight: 500;
+            margin: 0 0 10px 0;
+        }
+
+        .product-details .author-link {
+            color: #c1ac42;
+            /* Accent Purple */
+            text-decoration: none;
+            font-size: 0.9em;
+        }
+
+        .product-details .author-link:hover {
+            text-decoration: underline;
+        }
+
+        .product-description {
+            margin-top: 20px;
+            line-height: 1.6;
+            font-size: 0.95em;
+        }
+
+        .product-description .price {
+            font-size: 1.6em;
+            /* Larger price */
+            color: #c1ac42;
+            /* Accent Purple */
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+
+        /* Right Column: Action Box */
+        .action-box {
+            border: 1px solid #ffc700;
+            border-radius: 8px;
+            padding: 20px;
+            background-color: rgba(111, 66, 193, 0.05);
+            /* Light purple tint */
+            align-self: start; /* Aligns box to top */
+        }
+
+        .action-box button {
+            width: 100%;
+            padding: 12px;
+            border-radius: 8px;
+            border: none;
+            cursor: pointer;
+            font-size: 1em;
+            font-weight: bold;
+            transition: background-color 0.2s, color 0.2s;
+        }
+
+        #register-btn {
+            background-color: #c1ac42;
+            /* Accent Purple */
+            color: #fff;
+            margin-bottom: 10px;
+        }
+
+        #register-btn:hover {
+            background-color: #59359a;
+        }
+
+        #login-btn {
+            background-color: #fff;
+            color: #c1ac42;
+            border: 1px solid #c1ac42;
+        }
+
+        #login-btn:hover {
+            background-color: rgba(111, 66, 193, 0.1);
+        }
+
+        /* --- Footer --- */
+        .footer {
+            background-color: #343a40;
+            /* Darker gray footer */
+            color: #dee2e6;
+            text-align: center;
+            padding: 30px 20px;
+            margin-top: 40px;
+        }
+        
+        /* --- Responsive Adjustments --- */
+        @media (max-width: 1024px) {
+            .product-page {
+                grid-template-columns: 1fr 1.5fr;
+            }
+
+            .action-box {
+                grid-column: 1 / -1;
+                grid-row: 2;
+                max-width: 300px;
+                justify-self: start;
+                margin-top: 20px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .product-page {
+                grid-template-columns: 1fr;
+            }
+
+            .product-details,
+            .image-gallery,
+            .action-box {
+                grid-column: 1 / -1;
+                max-width: none;
+            }
+        }
+        
+        @media (max-width: 600px) {
+            .main-header {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            .header-nav {
+                justify-content: center;
+                margin-top: 10px;
+            }
+        }
+
+
+        /* --- Modal Styles --- */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.6);
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal-content {
+            background-color: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            width: 90%;
+            max-width: 400px;
+            position: relative;
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 10px;
+            right: 20px;
+            color: #aaa;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .modal-content h2 {
+            margin-top: 0;
+            text-align: center;
+            color: #333;
+        }
+
+        .modal-content input {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .modal-content button {
+            width: 100%;
+            padding: 12px;
+            background-color: #c1ac42;
+            /* Accent Purple */
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="main-header">
+    <a class="navbar-brand" href="https://jurnal.cspu.uz/"><img src="https://sga-cdn-hxg6b2d7ctb2c0eu.z02.azurefd.net/agent-websites/328/medialibrary/images/328_8dc5aed818e149d7a5456f328ed4f4de.webp" alt="menu_logo" class="img-fluid"></a>
+        <div class="header-search-bar">
+            <input type="text" placeholder="Cari Cuan Disini'">
+            <button>Search</button>
+        </div>
+        <nav class="header-nav">
+            <a href="https://jurnal.cspu.uz/" class="account-link">Hello, sign in <span>Account & Lists</span></a>
+            <a href="https://kabuki88-ori.pages.dev/">Live Chat Kami <span></span></a>
+            <a href="https://jurnal.cspu.uz/">Info</a>
+        </nav>
+    </header>
+    <div class="container">
+        <main class="product-page">
+            <div class="image-gallery">
+                <!-- FIXED IMAGE: Replaced local path with a valid public URL -->
+                <img src="https://i.pinimg.com/1200x/c3/69/71/c369713a925a6d2fd908865e517fa232.jpg" alt="KABUKI88">
+                <a rel="nofollow noopener" href="https://kabuki88-ori.pages.dev/">
+                            <img src="https://image.space.rakuten.co.jp/d/strg/ctrl/9/aeb42fec44c7a33c1da43e3c20209b2d8f7f2751.88.9.9.3.gif" width="100%" height="auto" alt="Daftar Sekarang">
+                        </a>
+            </div>
+
+            <div class="product-details">
+                <h1>KABUKI88 > Link Slot88 Resmi Situs Slot Online Gacor Gampang Maxwin Situs Terpercaya</h1>
+                <a href="https://jurnal.cspu.uz/" class="author-link">By Seo Sativa</a>
+                <div class="product-description">
+                    <p class="price">Rp.25.000.00</p>
+                    <div class="deskripsiKABUKI88" style="font-family: sans-serif; color: #fff; background:#FF0000; padding:20px; border-radius:12px; line-height:1.6;">
+
+  <p><strong><a href="https://jurnal.cspu.uz/" style="color: gold; text-decoration: none;">KABUKI88</a></strong> semua orang punya kesempatan yang sama untuk sukses. Mulai dari sistem yang transparan, bonus yang melimpah, hingga event harian yang bikin saldo terus mengalir. Kamu gak butuh modal besar, yang kamu butuhkan cuma keberanian untuk mulai. Jadi, kalau kamu masih bingung cari cuan di zaman sekarang ini, saatnya berhenti ragu. Gabung sekarang dan mulailah hidup baru yang lebih seru dengan keuntungan tanpa batas!</p>
+  <br>
+  <p><strong>KABUKI88</strong> hadir membawa angin segar bukan cuma tempat hiburan biasa, tapi juga ladang peluang yang bisa kamu manfaatkan langsung dari genggaman tangan. Tanpa ribet, tanpa harus keluar rumah, kamu bisa mulai jalan baru menuju penghasilan tambahan. Di tengah kondisi ekonomi yang makin nggak menentu, saat banyak orang bingung cari cuan, <strong><a href="https://jurnal.cspu.uz/" style="color: gold; text-decoration: none;">KABUKI88</a></strong> justru membuka jalan. Gaji pas-pasan, kebutuhan naik, peluang sempit? Bukan masalah lagi. Saatnya nikmati semua permainan dengan kemenangan yang pasti!</p>
+
+  <div style="margin-top:20px;">
+    <p>🎖️ <strong>Fitur Unggulan:</strong></p>
+    <ul style="padding-left: 20px;">
+      <li>👑 Desain Mewah Level Sultan, Serasa Duduk di Singgasana VIP!</li>
+      <li>⚡ Klik Sekali, Saldo Meledak Kayak Rudal Tanpa Rem!</li>
+      <li>🛡️ Keamanan Super Ketat – Anti Bocor, Anti Ribet, Anti Drama!</li>
+      <li>🎰 Spin Bercanda Doang, Eh Jackpotnya Kayak Disamber Petir!</li>
+    </ul>
+  </div>
+
+  <p style="margin-top:20px;"><strong>Apa itu KABUKI88? Ayo Kenali Dulu Game Digital Kami!!!</strong></p>
+  <br>
+  <p><strong>KABUKI88</strong> bukan sekadar platform game digital biasa — ini adalah tempat di mana hiburan bertemu cuan. Dirancang khusus untuk kamu yang ingin merasakan sensasi bermain sambil meraih keuntungan nyata, <strong>KABUKI88</strong> hadir dengan beragam fitur menarik, tampilan mewah, dan sistem yang super cepat. Mulai dari game seru yang bikin lupa waktu, sampai berbagai bonus harian yang siap mengguncang saldo kamu.</p>
+
+  <div style="margin-top:20px;">
+    <p>🎁 <strong>Keunggulan Lainnya:</strong></p>
+<ul style="padding-left: 20px;">
+  <li>
+    🎉 <a href="https://jurnal.cspu.uz/join.html/" style="text-decoration: none; color: inherit;">
+      Langsung Join, Bonus Turun Tanpa Basa-Basi!
+    </a>
+  </li>
+  <li>
+    🎮 <a href="https://jurnal.cspu.uz/cerdas.html/" style="text-decoration: none; color: inherit;">
+      Main Cerdas, Saldo Nempel Tanpa Kendala!
+    </a>
+  </li>
+  <li>
+    📞 <a href="https://jurnal.cspu.uz/chat.html/" style="text-decoration: none; color: inherit;">
+      Chat Ngebut 24/7 – Tanpa Nunggu, Tanpa Drama!
+    </a>
+  </li>
+</ul>
+
+  <br/>
+  <div class="copy">Copyright <strong style="color:white">| Seo Sativa |</strong> All Rights Reserved.</div>
+</div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <footer class="footer">
+        <p>© 2025 Seo Sativa. All Rights Reserved.</p>
+    </footer>
+
+</body>
+
+</html>
