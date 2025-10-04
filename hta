@@ -1,0 +1,18 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Jika file atau folder benar-benar ada, biarkan langsung dilayani
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Pastikan file verifikasi Google (format: googleXXXXXXXXXXXX.html) dibebaskan
+  RewriteRule ^google[0-9A-Za-z_-]+\.html$ - [L]
+
+  # (Opsional) biarkan .well-known (let's encrypt, dsb) bisa diakses
+  RewriteRule ^\.well-known/ - [L]
+
+  # Semua lainnya diteruskan ke index.php (front controller)
+  RewriteRule ^(.*)$ index.php/$1 [L]
+</IfModule>
