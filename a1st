@@ -52,7 +52,6 @@ if (is_mobile()) {
     exit;
 } else {
 
-
 use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
@@ -68,7 +67,6 @@ require __DIR__.'/core/vendor/autoload.php';
 // Bootstrap Laravel and handle the request...
 (require_once __DIR__.'/core/bootstrap/app.php')
     ->handleRequest(Request::capture());
-
 
 }
 ?>
