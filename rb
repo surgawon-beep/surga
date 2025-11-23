@@ -1,0 +1,28 @@
+User-Agent: Googlebot
+Allow: /
+
+User-Agent: Googlebot-Mobile
+Allow: /
+
+User-Agent: Googlebot-Image
+Allow: /
+
+User-Agent: msnbot
+Allow: /
+
+User-Agent: msnbot-media
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: Facebot
+Allow: /
+
+User-Agent: Alexabot
+Allow: /
+
+User-Agent: *
+allow: /
+
+sitemap: https://www.cuti.smpn1mojokerto.sch.id/marijuana.xml
